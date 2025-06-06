@@ -13,21 +13,21 @@ const collectionName = 'books';
 // Sample book data
 const books = [
   {
-    title: 'To Kill a Mockingbird',
-    author: 'Harper Lee',
+    title: 'Fishers eye',
+    author: 'Leer Lee',
     genre: 'Fiction',
     published_year: 1960,
-    price: 12.99,
+    price: 5,
     in_stock: true,
-    pages: 336,
+    pages: 360,
     publisher: 'J. B. Lippincott & Co.'
   },
   {
-    title: '1984',
+    title: 'Jayden Mind',
     author: 'George Orwell',
     genre: 'Dystopian',
     published_year: 1949,
-    price: 10.99,
+    price: 10,
     in_stock: true,
     pages: 328,
     publisher: 'Secker & Warburg'
